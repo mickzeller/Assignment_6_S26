@@ -6,9 +6,10 @@
 - Jane Doe
 - Derek Hardison
 - David Gibson
-- David Hooper
+- David A Hooper
 - Bina Sawani
 - Alexander Ibrahim
 - Nicholas Dunbar
 - Yoru Li
+- Makoto Tomokiyo
 - Mick Zeller 🔥
